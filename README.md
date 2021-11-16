@@ -7,7 +7,7 @@ Partie 1 : La table de multiplication
 Le code a été placé dans le fichier index.html.
 
 
-Cet extrait de code html permet de détailler la page avec un titre entre les balises <h1> (Multiplication) et un formulaire.
+Cet extrait de code html permet de détailler la page avec un titre entre les balises h1 (Multiplication) et un formulaire.
 
   
 Affichage : 
