@@ -1,27 +1,24 @@
-# Multiplication
+Rapport du TP 3.2 sur Angular – Multiplication
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
-## Development server
+Partie 1 : La table de multiplication
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+Le code a été placé dans le fichier index.html.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+Cet extrait de code html permet de détailler la page avec un titre entre les balises <h1> (Multiplication) et un formulaire.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  
+Affichage : 
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Le bouton (balise <button>) sert à récupérer la valeur inscrite par l’utilisateur (input) pour qu’elle soit ensuite utilisée dans l’extrait suivant comportant du code javascript.
 
-## Running end-to-end tests
+On a créé une boucle qui permet de calculer la table du nombre inscrit par l’utilisateur dans le formulaire quand on clique sur le bouton « Récupérer la valeur ». Une fois le bouton cliqué, une page s’ouvre et affiche tous les calculs de la table du nombre écrit.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+Page contenant la table calculée
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Lien du dépôt Github : https://github.com/Rayquane/TP-3.2-Angular-Multiplication
